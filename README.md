@@ -1,5 +1,5 @@
 <p align="center"><img width="45%" height="auto" src="women-web-developer-with-laptop.png"/></p>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aarti</h1><h3 align="center">I'm learning Web Development.</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aarti</h1><h3 align="center">I'm learning Web Development.</h3>
 
 
 ## 🙋‍♂️ About Me
