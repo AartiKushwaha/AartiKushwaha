@@ -77,4 +77,4 @@
     <img src="https://komarev.com/ghpvc/?username=AartiKushwaha">
 </a>
 <a href="https://github.com/AartiKushwaha?tab=followers"><img src="https://img.shields.io/github/followers/AartiKushwaha?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="right">(<a href="https://github.com/AartiKushwaha/AartiKushwaha/edit/main/README.md#hi-im-aarti">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/AartiKushwaha#hi-im-aarti">back to top</a>)</p>
