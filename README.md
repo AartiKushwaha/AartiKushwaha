@@ -59,7 +59,8 @@
 <br/>
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.gif)</div>
+<!-- ![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.gif)</div> -->
+![snake gif](https://raw.githubusercontent.com/AartiKushwaha/snk/output/github-contribution-grid-snake.svg)
 
 ## Connect with me:
 <p align="left">
