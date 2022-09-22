@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently in 2nd year, pursuing Btech CSE at IGDTUW
+- 🔭 I’m currently in 3rd year, pursuing Btech CSE at IGDTUW
 
 - 🌱 My fields of intetest are 
   - **Data Structures and Algorithms**
