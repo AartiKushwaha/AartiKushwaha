@@ -1,18 +1,19 @@
 <p align="center"><img width="45%" height="auto" src="women-web-developer-with-laptop.png"/></p>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aarti</h1><h3 align="center">I'm learning Web Development.</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aarti</h1><h3 align="center">Welcome to my github profile 🤩</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently in 3rd year, pursuing Btech CSE at IGDTUW
+- 🔭 I’m currently in 3rd year, pursuing Btech in CSE at IGDTUW
 
 - 🌱 My fields of intetest are 
-  - **Data Structures and Algorithms**
-  - **Frontend Development**
+  - **Problem Solving**
+  - **Fullstack Development**
   - **Competitive Programming**
   - **UI/UX Designing**
+  - **Web 3.0**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Open to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Check out my github profile to view my projects
 
@@ -25,16 +26,20 @@
 <p align="center"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/nolan/48/000000/express-js.png"/> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     &nbsp;
-    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> </a>  
+  
     
 </p>
 
