@@ -1,4 +1,4 @@
-<p align="center"><img width="55%" height="auto" src="happy 30th birthday(7).png"/></p>
+<p align="center"><img width="55%" height="auto" src="github1.png"/></p>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aarti</h1><h3 align="center">Welcome to my github profile 🤩</h3>
 ## 🙋‍♂️ About Me
 
