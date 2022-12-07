@@ -56,7 +56,8 @@
 
 <br/>
 
-<img alt="Aarti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AartiKushwaha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
+
+[![Aarti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AartiKushwaha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
