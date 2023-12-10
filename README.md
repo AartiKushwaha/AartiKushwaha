@@ -7,7 +7,7 @@
     💻 C++/Java/Python/JS • ReactJs/Angular/SpringBoot/NodeJs 
     📖 System Design • ML/DL
     🎮 Music • Anime • Sleep • Code • Art
-    🐾 Noodles 🐰 • IceCream & CheeseCake & Frooti & Pepsi 🐤🐥
+    🐾 Noodles 🐰 • IceCream & CheeseCake • Frooti & Pepsi 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
