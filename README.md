@@ -1,84 +1,19 @@
-<p align="center"><img width="40%" height="auto" src="github1.png"/></p>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Aarti</h1><h3 align="center">Welcome to my github profile 🤩</h3>
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently in 3rd year, pursuing Btech in CSE at IGDTUW
-
-- 🌱 My fields of intetest are 
-  - **Problem Solving**
-  - **Fullstack Development**
-  - **Competitive Programming**
-  - **UI/UX Designing**
-  - **Web 3.0**
-
-- 👯 Open to collaborate on **OpenSource Projects**
-
-- 👨‍💻 Check out my github profile to view my projects
-
-- 📫 Contact me at **rtkush1211@gmail.com**
-
-- ⚡ Fun fact **My favourite song- Baarishein by Anuv Jain, go and listen to it after viewing my profile 😉**
-
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/nolan/48/000000/express-js.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    &nbsp;
-  
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Aarti%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 Btech @ IGDTUW • Full-stack dev • Software Engineer
+    💻 C++/Java/Python/JS • ReactJs/Angular/SpringBoot/NodeJs 
+    📖 System Design • ML/DL
+    🎮 Music • Anime • Sleep • Code • Art
+    🐾 Noodles 🐰 • IceCream & CheeseCake & Frooti & Pepsi 🐤🐥
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
     
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-## 📊 My Github Stats
-<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aarti Kushwaha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AartiKushwaha&theme=black-ice&hide_border=false&stroke=FFFFFF&background=0D1117"/></p><p align="center">
-<img alt="Aarti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AartiKushwaha&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /> </p>
-  <p align="center"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AartiKushwaha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
-  
- <p align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-           </P>
-
-
-<br/>
-
-
-[![Aarti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AartiKushwaha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-## Watch my contributions get eaten by a snake 🐍
-<!-- ![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.gif)</div> -->
-![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg)
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/aarti-kushwaha-8bahttps://github.com/AartiKushwaha/AartiKushwaha/edit/main/README.md#hi-im-aartia97202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/__rt_kush____"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/__rt_kush____/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/AartiKushwaha/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AartiKushwaha">
-</a>
-<a href="https://github.com/AartiKushwaha?tab=followers"><img src="https://img.shields.io/github/followers/AartiKushwaha?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="right">(<a href="https://github.com/AartiKushwaha#hi-im-aarti">back to top</a>)</p>
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/iam-aarti-kushwaha/)
+[![](https://img.shields.io/badge/twitter-6364ff)](https://twitter.com/__rt_kush____)
+[![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/__rt_kush____/)
+</div>
