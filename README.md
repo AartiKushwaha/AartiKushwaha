@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Aarti%2C+that's+all+about+me+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 Software Engineer @some finTech • Full-stack dev • Nothing else
+    💼 Software Engineer @some company • Full-stack dev • Nothing else
     💻 C++/Java/Python/JS • Can work on any tech stack if I have to 
     📖 Not a fan of DSA • Fan of System Design
     🎮 Music • Anime • Sleep • Code • Art
@@ -17,3 +17,4 @@
 [![](https://img.shields.io/badge/twitter-6364ff)](https://twitter.com/__rt_kush____)
 [![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/__rt_kush____/)
 </div>
+
